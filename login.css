@@ -1,14 +1,15 @@
+
 .next{
 display: flex;
 justify-content: center;
 align-content: center;
 align-items: center;
 height: 100vh;
-background-image: url("33169cd2f386da252be2f7b9c7532a05.jpg");
+background-image:url("525446391_1026542246335925_8257366020685544147_n.jpg");
     height: 100vh;
     background-repeat:no-repeat ;
-    background-size: cover;
-    background-position: top;
+    background-size:cover;
+    background-position:top;
 }
 #moh{color: aliceblue;
 
@@ -35,7 +36,7 @@ input {
   }
 .mehdi{
     border: 1px solid #444;
-    background-color: #3E5879;
+    background-color: #205490;
     border-radius:  25px;
 padding: 20px;
 height: 75vh;
